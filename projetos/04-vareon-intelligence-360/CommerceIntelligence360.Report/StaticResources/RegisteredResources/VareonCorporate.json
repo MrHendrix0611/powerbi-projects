@@ -1,0 +1,52 @@
+{
+  "name": "VAREON Corporate",
+  "dataColors": [
+    "#23C8C7",
+    "#5A9CF4",
+    "#F4B56A",
+    "#AA8BF1",
+    "#F07991",
+    "#7BC6A4",
+    "#D7A6EA",
+    "#A2C667",
+    "#E6CE7A",
+    "#6EBDD2",
+    "#B7A0F1"
+  ],
+  "good": "#25DACD",
+  "neutral": "#EAB86A",
+  "bad": "#EF8796",
+  "minimum": "#EF8796",
+  "center": "#EAB86A",
+  "maximum": "#25DACD",
+  "background": "#0C1729",
+  "foreground": "#EDF4FF",
+  "tableAccent": "#25DACD",
+  "firstLevelElements": "#EDF4FF",
+  "secondLevelElements": "#AABCD2",
+  "thirdLevelElements": "#879BB6",
+  "fourthLevelElements": "#607B97",
+  "secondaryBackground": "#15283F",
+  "textClasses": {
+    "label": {
+      "fontFace": "Arial",
+      "fontSize": 11,
+      "color": "#EDF4FF"
+    },
+    "title": {
+      "fontFace": "Arial",
+      "fontSize": 13,
+      "color": "#EDF4FF"
+    },
+    "callout": {
+      "fontFace": "Arial",
+      "fontSize": 24,
+      "color": "#EDF4FF"
+    },
+    "header": {
+      "fontFace": "Arial",
+      "fontSize": 12,
+      "color": "#EDF4FF"
+    }
+  }
+}

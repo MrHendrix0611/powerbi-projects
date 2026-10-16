@@ -1,0 +1,521 @@
+﻿ClienteID,Estado,Cidade,Segmento
+CLI0001,MG,Belo Horizonte,Novo
+CLI0002,SP,São Paulo,Recorrente
+CLI0003,SP,São Paulo,Recorrente
+CLI0004,SC,Florianópolis,Novo
+CLI0005,SP,São Paulo,Novo
+CLI0006,RJ,Rio de Janeiro,Novo
+CLI0007,SP,São Paulo,Recorrente
+CLI0008,SP,São Paulo,Recorrente
+CLI0009,PE,Recife,Recorrente
+CLI0010,MG,Belo Horizonte,Novo
+CLI0011,PE,Recife,Novo
+CLI0012,PE,Recife,Premium
+CLI0013,RJ,Rio de Janeiro,Recorrente
+CLI0014,GO,Goiânia,Premium
+CLI0015,PR,Curitiba,Premium
+CLI0016,MG,Belo Horizonte,Premium
+CLI0017,MG,Belo Horizonte,Novo
+CLI0018,SC,Florianópolis,Recorrente
+CLI0019,SP,São Paulo,Novo
+CLI0020,DF,Brasília,Recorrente
+CLI0021,MG,Belo Horizonte,Novo
+CLI0022,RJ,Rio de Janeiro,Novo
+CLI0023,RS,Porto Alegre,Novo
+CLI0024,BA,Salvador,Recorrente
+CLI0025,MG,Belo Horizonte,Novo
+CLI0026,BA,Salvador,Recorrente
+CLI0027,RJ,Rio de Janeiro,Recorrente
+CLI0028,SC,Florianópolis,Novo
+CLI0029,BA,Salvador,Recorrente
+CLI0030,SP,São Paulo,Novo
+CLI0031,SP,São Paulo,Premium
+CLI0032,SC,Florianópolis,Premium
+CLI0033,RJ,Rio de Janeiro,Recorrente
+CLI0034,SP,São Paulo,Recorrente
+CLI0035,SP,São Paulo,Recorrente
+CLI0036,MG,Belo Horizonte,Premium
+CLI0037,MG,Belo Horizonte,Novo
+CLI0038,SC,Florianópolis,Novo
+CLI0039,GO,Goiânia,Recorrente
+CLI0040,SP,São Paulo,Recorrente
+CLI0041,SC,Florianópolis,Novo
+CLI0042,SP,São Paulo,Novo
+CLI0043,SC,Florianópolis,Recorrente
+CLI0044,DF,Brasília,Recorrente
+CLI0045,SP,São Paulo,Novo
+CLI0046,SP,São Paulo,Novo
+CLI0047,BA,Salvador,Recorrente
+CLI0048,SC,Florianópolis,Premium
+CLI0049,BA,Salvador,Recorrente
+CLI0050,RJ,Rio de Janeiro,Recorrente
+CLI0051,RJ,Rio de Janeiro,Recorrente
+CLI0052,DF,Brasília,Novo
+CLI0053,MG,Belo Horizonte,Premium
+CLI0054,PR,Curitiba,Novo
+CLI0055,RS,Porto Alegre,Novo
+CLI0056,RJ,Rio de Janeiro,Recorrente
+CLI0057,SP,São Paulo,Recorrente
+CLI0058,RS,Porto Alegre,Novo
+CLI0059,RJ,Rio de Janeiro,Premium
+CLI0060,CE,Fortaleza,Novo
+CLI0061,BA,Salvador,Novo
+CLI0062,RS,Porto Alegre,Recorrente
+CLI0063,PR,Curitiba,Recorrente
+CLI0064,DF,Brasília,Novo
+CLI0065,MG,Belo Horizonte,Premium
+CLI0066,SC,Florianópolis,Novo
+CLI0067,RJ,Rio de Janeiro,Premium
+CLI0068,PR,Curitiba,Novo
+CLI0069,PE,Recife,Recorrente
+CLI0070,SC,Florianópolis,Novo
+CLI0071,RJ,Rio de Janeiro,Novo
+CLI0072,SP,São Paulo,Novo
+CLI0073,PE,Recife,Recorrente
+CLI0074,RJ,Rio de Janeiro,Novo
+CLI0075,PR,Curitiba,Recorrente
+CLI0076,PE,Recife,Novo
+CLI0077,RJ,Rio de Janeiro,Recorrente
+CLI0078,GO,Goiânia,Novo
+CLI0079,BA,Salvador,Novo
+CLI0080,RJ,Rio de Janeiro,Novo
+CLI0081,CE,Fortaleza,Recorrente
+CLI0082,RJ,Rio de Janeiro,Recorrente
+CLI0083,SP,São Paulo,Recorrente
+CLI0084,SP,São Paulo,Novo
+CLI0085,CE,Fortaleza,Recorrente
+CLI0086,RS,Porto Alegre,Premium
+CLI0087,RS,Porto Alegre,Recorrente
+CLI0088,RJ,Rio de Janeiro,Recorrente
+CLI0089,GO,Goiânia,Recorrente
+CLI0090,GO,Goiânia,Recorrente
+CLI0091,RJ,Rio de Janeiro,Recorrente
+CLI0092,SP,São Paulo,Novo
+CLI0093,DF,Brasília,Novo
+CLI0094,RS,Porto Alegre,Recorrente
+CLI0095,PR,Curitiba,Recorrente
+CLI0096,PE,Recife,Recorrente
+CLI0097,RJ,Rio de Janeiro,Novo
+CLI0098,PR,Curitiba,Novo
+CLI0099,BA,Salvador,Recorrente
+CLI0100,RS,Porto Alegre,Recorrente
+CLI0101,SP,São Paulo,Novo
+CLI0102,SP,São Paulo,Recorrente
+CLI0103,PR,Curitiba,Recorrente
+CLI0104,RJ,Rio de Janeiro,Recorrente
+CLI0105,CE,Fortaleza,Novo
+CLI0106,RJ,Rio de Janeiro,Novo
+CLI0107,MG,Belo Horizonte,Novo
+CLI0108,SP,São Paulo,Premium
+CLI0109,RS,Porto Alegre,Recorrente
+CLI0110,RS,Porto Alegre,Recorrente
+CLI0111,RJ,Rio de Janeiro,Novo
+CLI0112,SP,São Paulo,Novo
+CLI0113,SC,Florianópolis,Recorrente
+CLI0114,GO,Goiânia,Recorrente
+CLI0115,SP,São Paulo,Novo
+CLI0116,SC,Florianópolis,Novo
+CLI0117,GO,Goiânia,Novo
+CLI0118,PE,Recife,Recorrente
+CLI0119,RS,Porto Alegre,Recorrente
+CLI0120,CE,Fortaleza,Novo
+CLI0121,DF,Brasília,Recorrente
+CLI0122,PR,Curitiba,Recorrente
+CLI0123,PE,Recife,Recorrente
+CLI0124,PE,Recife,Novo
+CLI0125,RJ,Rio de Janeiro,Premium
+CLI0126,SP,São Paulo,Recorrente
+CLI0127,DF,Brasília,Premium
+CLI0128,BA,Salvador,Recorrente
+CLI0129,RJ,Rio de Janeiro,Recorrente
+CLI0130,SP,São Paulo,Recorrente
+CLI0131,RS,Porto Alegre,Premium
+CLI0132,SC,Florianópolis,Novo
+CLI0133,RS,Porto Alegre,Novo
+CLI0134,MG,Belo Horizonte,Recorrente
+CLI0135,MG,Belo Horizonte,Recorrente
+CLI0136,RS,Porto Alegre,Novo
+CLI0137,SC,Florianópolis,Recorrente
+CLI0138,PR,Curitiba,Recorrente
+CLI0139,SP,São Paulo,Recorrente
+CLI0140,PR,Curitiba,Novo
+CLI0141,RJ,Rio de Janeiro,Novo
+CLI0142,DF,Brasília,Novo
+CLI0143,GO,Goiânia,Recorrente
+CLI0144,RJ,Rio de Janeiro,Novo
+CLI0145,MG,Belo Horizonte,Premium
+CLI0146,SC,Florianópolis,Novo
+CLI0147,SP,São Paulo,Recorrente
+CLI0148,PR,Curitiba,Premium
+CLI0149,MG,Belo Horizonte,Recorrente
+CLI0150,SP,São Paulo,Novo
+CLI0151,GO,Goiânia,Novo
+CLI0152,SP,São Paulo,Recorrente
+CLI0153,GO,Goiânia,Recorrente
+CLI0154,SP,São Paulo,Novo
+CLI0155,RS,Porto Alegre,Recorrente
+CLI0156,SP,São Paulo,Novo
+CLI0157,SP,São Paulo,Premium
+CLI0158,MG,Belo Horizonte,Recorrente
+CLI0159,SP,São Paulo,Novo
+CLI0160,MG,Belo Horizonte,Recorrente
+CLI0161,SP,São Paulo,Recorrente
+CLI0162,PE,Recife,Premium
+CLI0163,SC,Florianópolis,Novo
+CLI0164,PE,Recife,Recorrente
+CLI0165,RJ,Rio de Janeiro,Novo
+CLI0166,SP,São Paulo,Novo
+CLI0167,SP,São Paulo,Recorrente
+CLI0168,MG,Belo Horizonte,Novo
+CLI0169,MG,Belo Horizonte,Recorrente
+CLI0170,RS,Porto Alegre,Novo
+CLI0171,BA,Salvador,Recorrente
+CLI0172,BA,Salvador,Novo
+CLI0173,SC,Florianópolis,Novo
+CLI0174,BA,Salvador,Novo
+CLI0175,SP,São Paulo,Recorrente
+CLI0176,RJ,Rio de Janeiro,Recorrente
+CLI0177,MG,Belo Horizonte,Novo
+CLI0178,PR,Curitiba,Recorrente
+CLI0179,SC,Florianópolis,Novo
+CLI0180,SC,Florianópolis,Novo
+CLI0181,CE,Fortaleza,Recorrente
+CLI0182,CE,Fortaleza,Novo
+CLI0183,RJ,Rio de Janeiro,Premium
+CLI0184,PE,Recife,Recorrente
+CLI0185,RS,Porto Alegre,Recorrente
+CLI0186,SP,São Paulo,Recorrente
+CLI0187,RS,Porto Alegre,Recorrente
+CLI0188,SP,São Paulo,Novo
+CLI0189,MG,Belo Horizonte,Recorrente
+CLI0190,RJ,Rio de Janeiro,Novo
+CLI0191,SC,Florianópolis,Premium
+CLI0192,SP,São Paulo,Premium
+CLI0193,SP,São Paulo,Novo
+CLI0194,SP,São Paulo,Novo
+CLI0195,RJ,Rio de Janeiro,Recorrente
+CLI0196,RS,Porto Alegre,Novo
+CLI0197,MG,Belo Horizonte,Novo
+CLI0198,GO,Goiânia,Novo
+CLI0199,RS,Porto Alegre,Recorrente
+CLI0200,SC,Florianópolis,Novo
+CLI0201,BA,Salvador,Recorrente
+CLI0202,DF,Brasília,Novo
+CLI0203,CE,Fortaleza,Novo
+CLI0204,RS,Porto Alegre,Recorrente
+CLI0205,RJ,Rio de Janeiro,Novo
+CLI0206,SC,Florianópolis,Recorrente
+CLI0207,PR,Curitiba,Novo
+CLI0208,MG,Belo Horizonte,Recorrente
+CLI0209,GO,Goiânia,Novo
+CLI0210,GO,Goiânia,Premium
+CLI0211,SP,São Paulo,Premium
+CLI0212,RS,Porto Alegre,Recorrente
+CLI0213,MG,Belo Horizonte,Premium
+CLI0214,MG,Belo Horizonte,Novo
+CLI0215,PE,Recife,Premium
+CLI0216,SC,Florianópolis,Novo
+CLI0217,CE,Fortaleza,Recorrente
+CLI0218,CE,Fortaleza,Novo
+CLI0219,MG,Belo Horizonte,Recorrente
+CLI0220,RJ,Rio de Janeiro,Premium
+CLI0221,PR,Curitiba,Recorrente
+CLI0222,PR,Curitiba,Recorrente
+CLI0223,SP,São Paulo,Recorrente
+CLI0224,BA,Salvador,Recorrente
+CLI0225,SP,São Paulo,Premium
+CLI0226,RJ,Rio de Janeiro,Novo
+CLI0227,MG,Belo Horizonte,Novo
+CLI0228,BA,Salvador,Recorrente
+CLI0229,RS,Porto Alegre,Novo
+CLI0230,SC,Florianópolis,Recorrente
+CLI0231,SP,São Paulo,Novo
+CLI0232,BA,Salvador,Recorrente
+CLI0233,MG,Belo Horizonte,Premium
+CLI0234,BA,Salvador,Recorrente
+CLI0235,RJ,Rio de Janeiro,Novo
+CLI0236,RS,Porto Alegre,Novo
+CLI0237,CE,Fortaleza,Premium
+CLI0238,BA,Salvador,Recorrente
+CLI0239,SP,São Paulo,Novo
+CLI0240,SC,Florianópolis,Recorrente
+CLI0241,SP,São Paulo,Novo
+CLI0242,PE,Recife,Novo
+CLI0243,RS,Porto Alegre,Recorrente
+CLI0244,RJ,Rio de Janeiro,Recorrente
+CLI0245,SP,São Paulo,Novo
+CLI0246,BA,Salvador,Novo
+CLI0247,SC,Florianópolis,Recorrente
+CLI0248,BA,Salvador,Recorrente
+CLI0249,RS,Porto Alegre,Recorrente
+CLI0250,SP,São Paulo,Recorrente
+CLI0251,RJ,Rio de Janeiro,Novo
+CLI0252,SP,São Paulo,Recorrente
+CLI0253,PR,Curitiba,Premium
+CLI0254,SP,São Paulo,Recorrente
+CLI0255,PE,Recife,Premium
+CLI0256,SP,São Paulo,Novo
+CLI0257,SC,Florianópolis,Premium
+CLI0258,MG,Belo Horizonte,Novo
+CLI0259,SC,Florianópolis,Recorrente
+CLI0260,RS,Porto Alegre,Novo
+CLI0261,RJ,Rio de Janeiro,Novo
+CLI0262,SC,Florianópolis,Recorrente
+CLI0263,PR,Curitiba,Premium
+CLI0264,SP,São Paulo,Recorrente
+CLI0265,CE,Fortaleza,Recorrente
+CLI0266,SP,São Paulo,Recorrente
+CLI0267,RJ,Rio de Janeiro,Novo
+CLI0268,MG,Belo Horizonte,Novo
+CLI0269,RJ,Rio de Janeiro,Novo
+CLI0270,PR,Curitiba,Novo
+CLI0271,RJ,Rio de Janeiro,Recorrente
+CLI0272,DF,Brasília,Recorrente
+CLI0273,GO,Goiânia,Premium
+CLI0274,SP,São Paulo,Recorrente
+CLI0275,SC,Florianópolis,Recorrente
+CLI0276,BA,Salvador,Novo
+CLI0277,PE,Recife,Premium
+CLI0278,CE,Fortaleza,Novo
+CLI0279,RJ,Rio de Janeiro,Premium
+CLI0280,BA,Salvador,Recorrente
+CLI0281,PR,Curitiba,Novo
+CLI0282,MG,Belo Horizonte,Recorrente
+CLI0283,PE,Recife,Novo
+CLI0284,MG,Belo Horizonte,Recorrente
+CLI0285,SP,São Paulo,Novo
+CLI0286,PR,Curitiba,Novo
+CLI0287,SC,Florianópolis,Premium
+CLI0288,BA,Salvador,Novo
+CLI0289,SP,São Paulo,Recorrente
+CLI0290,SP,São Paulo,Recorrente
+CLI0291,RS,Porto Alegre,Novo
+CLI0292,RS,Porto Alegre,Recorrente
+CLI0293,SP,São Paulo,Recorrente
+CLI0294,RS,Porto Alegre,Recorrente
+CLI0295,RS,Porto Alegre,Recorrente
+CLI0296,SP,São Paulo,Recorrente
+CLI0297,PE,Recife,Recorrente
+CLI0298,PR,Curitiba,Recorrente
+CLI0299,RJ,Rio de Janeiro,Novo
+CLI0300,SP,São Paulo,Premium
+CLI0301,MG,Belo Horizonte,Novo
+CLI0302,MG,Belo Horizonte,Recorrente
+CLI0303,GO,Goiânia,Novo
+CLI0304,RS,Porto Alegre,Recorrente
+CLI0305,SP,São Paulo,Recorrente
+CLI0306,PR,Curitiba,Novo
+CLI0307,RJ,Rio de Janeiro,Recorrente
+CLI0308,CE,Fortaleza,Premium
+CLI0309,SC,Florianópolis,Premium
+CLI0310,SC,Florianópolis,Novo
+CLI0311,SP,São Paulo,Novo
+CLI0312,BA,Salvador,Premium
+CLI0313,SP,São Paulo,Novo
+CLI0314,SP,São Paulo,Recorrente
+CLI0315,SP,São Paulo,Premium
+CLI0316,SC,Florianópolis,Recorrente
+CLI0317,RS,Porto Alegre,Novo
+CLI0318,SP,São Paulo,Novo
+CLI0319,MG,Belo Horizonte,Premium
+CLI0320,PR,Curitiba,Recorrente
+CLI0321,GO,Goiânia,Novo
+CLI0322,RJ,Rio de Janeiro,Recorrente
+CLI0323,RS,Porto Alegre,Recorrente
+CLI0324,PR,Curitiba,Recorrente
+CLI0325,SC,Florianópolis,Novo
+CLI0326,RS,Porto Alegre,Recorrente
+CLI0327,RJ,Rio de Janeiro,Recorrente
+CLI0328,PE,Recife,Novo
+CLI0329,RJ,Rio de Janeiro,Recorrente
+CLI0330,RJ,Rio de Janeiro,Recorrente
+CLI0331,MG,Belo Horizonte,Recorrente
+CLI0332,SP,São Paulo,Recorrente
+CLI0333,GO,Goiânia,Recorrente
+CLI0334,MG,Belo Horizonte,Recorrente
+CLI0335,PR,Curitiba,Novo
+CLI0336,MG,Belo Horizonte,Recorrente
+CLI0337,CE,Fortaleza,Novo
+CLI0338,SC,Florianópolis,Recorrente
+CLI0339,SC,Florianópolis,Novo
+CLI0340,SP,São Paulo,Novo
+CLI0341,RS,Porto Alegre,Recorrente
+CLI0342,RS,Porto Alegre,Novo
+CLI0343,BA,Salvador,Novo
+CLI0344,SC,Florianópolis,Novo
+CLI0345,BA,Salvador,Recorrente
+CLI0346,MG,Belo Horizonte,Recorrente
+CLI0347,GO,Goiânia,Recorrente
+CLI0348,SC,Florianópolis,Premium
+CLI0349,SP,São Paulo,Recorrente
+CLI0350,PE,Recife,Novo
+CLI0351,RJ,Rio de Janeiro,Recorrente
+CLI0352,SP,São Paulo,Recorrente
+CLI0353,SP,São Paulo,Novo
+CLI0354,SP,São Paulo,Novo
+CLI0355,DF,Brasília,Novo
+CLI0356,MG,Belo Horizonte,Recorrente
+CLI0357,RJ,Rio de Janeiro,Novo
+CLI0358,SP,São Paulo,Premium
+CLI0359,CE,Fortaleza,Novo
+CLI0360,PR,Curitiba,Novo
+CLI0361,MG,Belo Horizonte,Recorrente
+CLI0362,DF,Brasília,Premium
+CLI0363,PE,Recife,Recorrente
+CLI0364,SC,Florianópolis,Novo
+CLI0365,CE,Fortaleza,Novo
+CLI0366,PR,Curitiba,Novo
+CLI0367,GO,Goiânia,Novo
+CLI0368,PR,Curitiba,Recorrente
+CLI0369,CE,Fortaleza,Recorrente
+CLI0370,GO,Goiânia,Recorrente
+CLI0371,SP,São Paulo,Recorrente
+CLI0372,RJ,Rio de Janeiro,Recorrente
+CLI0373,GO,Goiânia,Novo
+CLI0374,PE,Recife,Recorrente
+CLI0375,CE,Fortaleza,Novo
+CLI0376,MG,Belo Horizonte,Novo
+CLI0377,GO,Goiânia,Recorrente
+CLI0378,GO,Goiânia,Recorrente
+CLI0379,SC,Florianópolis,Novo
+CLI0380,SC,Florianópolis,Novo
+CLI0381,CE,Fortaleza,Premium
+CLI0382,RS,Porto Alegre,Novo
+CLI0383,RS,Porto Alegre,Recorrente
+CLI0384,CE,Fortaleza,Recorrente
+CLI0385,SP,São Paulo,Recorrente
+CLI0386,RS,Porto Alegre,Novo
+CLI0387,SC,Florianópolis,Novo
+CLI0388,RS,Porto Alegre,Recorrente
+CLI0389,SP,São Paulo,Recorrente
+CLI0390,SC,Florianópolis,Premium
+CLI0391,MG,Belo Horizonte,Recorrente
+CLI0392,DF,Brasília,Recorrente
+CLI0393,RS,Porto Alegre,Recorrente
+CLI0394,BA,Salvador,Premium
+CLI0395,PR,Curitiba,Recorrente
+CLI0396,RJ,Rio de Janeiro,Recorrente
+CLI0397,MG,Belo Horizonte,Premium
+CLI0398,RJ,Rio de Janeiro,Recorrente
+CLI0399,BA,Salvador,Novo
+CLI0400,MG,Belo Horizonte,Novo
+CLI0401,SP,São Paulo,Recorrente
+CLI0402,MG,Belo Horizonte,Premium
+CLI0403,PR,Curitiba,Recorrente
+CLI0404,PR,Curitiba,Novo
+CLI0405,SP,São Paulo,Novo
+CLI0406,BA,Salvador,Recorrente
+CLI0407,RS,Porto Alegre,Premium
+CLI0408,GO,Goiânia,Novo
+CLI0409,RJ,Rio de Janeiro,Recorrente
+CLI0410,PE,Recife,Recorrente
+CLI0411,CE,Fortaleza,Recorrente
+CLI0412,RJ,Rio de Janeiro,Recorrente
+CLI0413,GO,Goiânia,Premium
+CLI0414,SP,São Paulo,Recorrente
+CLI0415,RJ,Rio de Janeiro,Novo
+CLI0416,DF,Brasília,Premium
+CLI0417,SP,São Paulo,Premium
+CLI0418,SP,São Paulo,Novo
+CLI0419,SP,São Paulo,Novo
+CLI0420,SP,São Paulo,Recorrente
+CLI0421,SC,Florianópolis,Novo
+CLI0422,SP,São Paulo,Novo
+CLI0423,SP,São Paulo,Novo
+CLI0424,PE,Recife,Premium
+CLI0425,SP,São Paulo,Premium
+CLI0426,MG,Belo Horizonte,Premium
+CLI0427,BA,Salvador,Novo
+CLI0428,RJ,Rio de Janeiro,Premium
+CLI0429,SP,São Paulo,Recorrente
+CLI0430,BA,Salvador,Novo
+CLI0431,SC,Florianópolis,Novo
+CLI0432,GO,Goiânia,Recorrente
+CLI0433,SP,São Paulo,Recorrente
+CLI0434,SP,São Paulo,Premium
+CLI0435,BA,Salvador,Recorrente
+CLI0436,PE,Recife,Recorrente
+CLI0437,RJ,Rio de Janeiro,Novo
+CLI0438,PE,Recife,Novo
+CLI0439,SC,Florianópolis,Novo
+CLI0440,PR,Curitiba,Recorrente
+CLI0441,SP,São Paulo,Novo
+CLI0442,PR,Curitiba,Premium
+CLI0443,RJ,Rio de Janeiro,Novo
+CLI0444,MG,Belo Horizonte,Premium
+CLI0445,SP,São Paulo,Novo
+CLI0446,RJ,Rio de Janeiro,Novo
+CLI0447,RJ,Rio de Janeiro,Recorrente
+CLI0448,SP,São Paulo,Recorrente
+CLI0449,PR,Curitiba,Recorrente
+CLI0450,SP,São Paulo,Novo
+CLI0451,MG,Belo Horizonte,Novo
+CLI0452,SC,Florianópolis,Novo
+CLI0453,CE,Fortaleza,Recorrente
+CLI0454,PR,Curitiba,Recorrente
+CLI0455,PE,Recife,Recorrente
+CLI0456,BA,Salvador,Recorrente
+CLI0457,SC,Florianópolis,Novo
+CLI0458,MG,Belo Horizonte,Novo
+CLI0459,SP,São Paulo,Recorrente
+CLI0460,RS,Porto Alegre,Premium
+CLI0461,MG,Belo Horizonte,Novo
+CLI0462,GO,Goiânia,Novo
+CLI0463,CE,Fortaleza,Recorrente
+CLI0464,SC,Florianópolis,Novo
+CLI0465,BA,Salvador,Recorrente
+CLI0466,SC,Florianópolis,Recorrente
+CLI0467,PR,Curitiba,Recorrente
+CLI0468,PR,Curitiba,Recorrente
+CLI0469,DF,Brasília,Recorrente
+CLI0470,PR,Curitiba,Novo
+CLI0471,SC,Florianópolis,Recorrente
+CLI0472,SP,São Paulo,Novo
+CLI0473,BA,Salvador,Novo
+CLI0474,PR,Curitiba,Premium
+CLI0475,BA,Salvador,Novo
+CLI0476,MG,Belo Horizonte,Premium
+CLI0477,SP,São Paulo,Premium
+CLI0478,DF,Brasília,Novo
+CLI0479,MG,Belo Horizonte,Recorrente
+CLI0480,SP,São Paulo,Novo
+CLI0481,PR,Curitiba,Novo
+CLI0482,RS,Porto Alegre,Novo
+CLI0483,CE,Fortaleza,Novo
+CLI0484,PE,Recife,Recorrente
+CLI0485,SC,Florianópolis,Premium
+CLI0486,RS,Porto Alegre,Novo
+CLI0487,MG,Belo Horizonte,Novo
+CLI0488,SP,São Paulo,Recorrente
+CLI0489,SC,Florianópolis,Recorrente
+CLI0490,PR,Curitiba,Premium
+CLI0491,SP,São Paulo,Premium
+CLI0492,SP,São Paulo,Novo
+CLI0493,SP,São Paulo,Premium
+CLI0494,SP,São Paulo,Premium
+CLI0495,DF,Brasília,Recorrente
+CLI0496,CE,Fortaleza,Recorrente
+CLI0497,SP,São Paulo,Novo
+CLI0498,SC,Florianópolis,Premium
+CLI0499,RS,Porto Alegre,Premium
+CLI0500,MG,Belo Horizonte,Novo
+CLI0501,MG,Belo Horizonte,Recorrente
+CLI0502,RS,Porto Alegre,Novo
+CLI0503,SP,São Paulo,Recorrente
+CLI0504,SP,São Paulo,Recorrente
+CLI0505,SP,São Paulo,Novo
+CLI0506,SP,São Paulo,Recorrente
+CLI0507,DF,Brasília,Novo
+CLI0508,SP,São Paulo,Premium
+CLI0509,BA,Salvador,Recorrente
+CLI0510,RJ,Rio de Janeiro,Recorrente
+CLI0511,MG,Belo Horizonte,Novo
+CLI0512,MG,Belo Horizonte,Recorrente
+CLI0513,SP,São Paulo,Recorrente
+CLI0514,PR,Curitiba,Recorrente
+CLI0515,BA,Salvador,Premium
+CLI0516,SC,Florianópolis,Premium
+CLI0517,PR,Curitiba,Novo
+CLI0518,SC,Florianópolis,Novo
+CLI0519,GO,Goiânia,Novo
+CLI0520,PE,Recife,Novo

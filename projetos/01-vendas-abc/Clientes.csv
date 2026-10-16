@@ -1,0 +1,221 @@
+ClienteID,NomeCliente,Segmento,Porte,Cidade,Estado,Regiao,DataCadastro
+5000,Indústria Automotiva Nunes S.A.,Automotivo,Grande,Contagem,MG,Sudeste,2023-08-25
+5001,Construtora Pinto S/A,Construção Civil,Pequeno,São Paulo,SP,Sudeste,2024-03-05
+5002,Têxtil Rodrigues S.A.,Têxtil,Médio,Curitiba,PR,Sul,2023-06-01
+5003,Siderúrgica Costa S/A,Metalurgia e Siderurgia,Pequeno,Belém,PA,Norte,2024-11-07
+5004,Celulose Pereira S.A.,Papel e Celulose,Médio,São Paulo,SP,Sudeste,2022-06-19
+5005,Materiais de Construção Machado Ltda,Construção Civil,Médio,Florianópolis,SC,Sul,2021-06-14
+5006,Pré-Moldados Campos Ltda,Construção Civil,Pequeno,Rio de Janeiro,RJ,Sudeste,2022-12-29
+5007,Papel e Celulose Vieira EIRELI,Papel e Celulose,Grande,Blumenau,SC,Sul,2023-07-13
+5008,Metalúrgica Moreira S/A,Metalurgia e Siderurgia,Pequeno,Volta Redonda,RJ,Sudeste,2024-05-28
+5009,Manutenção Industrial Teixeira Ltda,Outros / Serviços Industriais,Médio,São Paulo,SP,Sudeste,2020-05-25
+5010,Gás Industrial Santos Ltda ME,"Petróleo, Gás e Química",Médio,Curitiba,PR,Sul,2024-05-22
+5011,Cooperativa Agrícola Monteiro Ltda ME,Agronegócio,Grande,Recife,PE,Nordeste,2021-12-25
+5012,Alimentos Carvalho S/A,Alimentício e Bebidas,Médio,Joinville,SC,Sul,2022-11-09
+5013,Bebidas Almeida S.A.,Alimentício e Bebidas,Médio,Cuiabá,MT,Centro-Oeste,2023-10-10
+5014,Materiais de Construção Oliveira EIRELI,Construção Civil,Pequeno,João Pessoa,PB,Nordeste,2022-01-14
+5015,Extração e Beneficiamento Costa S/A,Mineração,Pequeno,Feira de Santana,BA,Nordeste,2020-06-15
+5016,Engenharia Pereira EIRELI,Construção Civil,Pequeno,Volta Redonda,RJ,Sudeste,2024-10-25
+5017,Metalúrgica Teixeira EIRELI,Automotivo,Pequeno,Contagem,MG,Sudeste,2021-08-15
+5018,Fundição Freitas Ltda ME,Metalurgia e Siderurgia,Pequeno,Vitória,ES,Sudeste,2020-10-17
+5019,Agroindústria Almeida Ltda ME,Agronegócio,Pequeno,Contagem,MG,Sudeste,2022-02-24
+5020,Extração e Beneficiamento Alves S/A,Mineração,Grande,São Paulo,SP,Sudeste,2024-06-05
+5021,Locação de Equipamentos Souza S/A,Outros / Serviços Industriais,Grande,Rio de Janeiro,RJ,Sudeste,2020-10-30
+5022,Malharia Machado Ltda ME,Têxtil,Médio,Manaus,AM,Norte,2021-10-21
+5023,Siderúrgica Alves S/A,Metalurgia e Siderurgia,Médio,Contagem,MG,Sudeste,2020-10-06
+5024,Papel e Celulose Nascimento Ltda,Papel e Celulose,Médio,Belo Horizonte,MG,Sudeste,2024-03-29
+5025,Cooperativa Agrícola Carvalho EIRELI,Agronegócio,Pequeno,Belo Horizonte,MG,Sudeste,2023-02-22
+5026,Papel e Celulose Lima Ltda ME,Papel e Celulose,Grande,Campinas,SP,Sudeste,2020-04-27
+5027,Mineração Monteiro S/A,Mineração,Médio,Londrina,PR,Sul,2020-10-22
+5028,Usinagem Moreira Ltda,Metalurgia e Siderurgia,Médio,Fortaleza,CE,Nordeste,2023-07-10
+5029,Celulose Barros S/A,Papel e Celulose,Médio,Volta Redonda,RJ,Sudeste,2024-04-12
+5030,Química Industrial Souza EIRELI,"Petróleo, Gás e Química",Pequeno,Belo Horizonte,MG,Sudeste,2020-05-20
+5031,Malharia Teixeira EIRELI,Têxtil,Médio,Manaus,AM,Norte,2021-02-15
+5032,Máquinas Agrícolas Teixeira Ltda,Agronegócio,Médio,Goiânia,GO,Centro-Oeste,2024-06-16
+5033,Metalúrgica Cardoso EIRELI,Metalurgia e Siderurgia,Médio,Campinas,SP,Sudeste,2022-08-30
+5034,Química Industrial Ribeiro S.A.,"Petróleo, Gás e Química",Grande,João Pessoa,PB,Nordeste,2022-01-05
+5035,Pré-Moldados Souza EIRELI,Construção Civil,Pequeno,Uberlândia,MG,Sudeste,2021-09-24
+5036,Celulose Fernandes Ltda ME,Papel e Celulose,Médio,Feira de Santana,BA,Nordeste,2020-07-25
+5037,Mineração Araújo S.A.,Mineração,Pequeno,Uberlândia,MG,Sudeste,2024-02-27
+5038,Bebidas Carvalho Ltda,Alimentício e Bebidas,Médio,Campo Grande,MS,Centro-Oeste,2021-05-20
+5039,Química Industrial Ribeiro Ltda,"Petróleo, Gás e Química",Grande,Cuiabá,MT,Centro-Oeste,2023-02-04
+5040,Serviços Técnicos Pereira S.A.,Outros / Serviços Industriais,Médio,João Pessoa,PB,Nordeste,2020-10-18
+5041,Metalúrgica Mendes EIRELI,Metalurgia e Siderurgia,Médio,Rio de Janeiro,RJ,Sudeste,2024-11-10
+5042,Grãos Rocha S.A.,Agronegócio,Pequeno,Recife,PE,Nordeste,2022-10-11
+5043,Química Industrial Souza S.A.,"Petróleo, Gás e Química",Grande,Campo Grande,MS,Centro-Oeste,2020-02-02
+5044,Têxtil Souza Ltda ME,Têxtil,Médio,Uberlândia,MG,Sudeste,2020-01-29
+5045,Indústria Automotiva Dias S/A,Automotivo,Pequeno,Blumenau,SC,Sul,2024-10-11
+5046,Gás Industrial Rodrigues Ltda,"Petróleo, Gás e Química",Médio,Contagem,MG,Sudeste,2020-07-04
+5047,Auto Peças Silva S/A,Automotivo,Médio,São Paulo,SP,Sudeste,2021-12-25
+5048,Têxtil Oliveira Ltda ME,Têxtil,Grande,Sorocaba,SP,Sudeste,2021-01-14
+5049,Celulose Barros EIRELI,Papel e Celulose,Pequeno,João Pessoa,PB,Nordeste,2024-09-21
+5050,Fundição Nunes EIRELI,Metalurgia e Siderurgia,Grande,Belo Horizonte,MG,Sudeste,2021-11-12
+5051,Petroquímica Ferreira Ltda,"Petróleo, Gás e Química",Médio,Contagem,MG,Sudeste,2023-08-10
+5052,Celulose Silva Ltda,Papel e Celulose,Pequeno,Porto Velho,RO,Norte,2021-12-07
+5053,Química Industrial Ferreira S.A.,"Petróleo, Gás e Química",Pequeno,Cuiabá,MT,Centro-Oeste,2024-06-22
+5054,Bebidas Machado S.A.,Alimentício e Bebidas,Médio,Belém,PA,Norte,2021-11-01
+5055,Serviços Técnicos Lima EIRELI,Outros / Serviços Industriais,Médio,Sorocaba,SP,Sudeste,2022-02-12
+5056,Manutenção Industrial Costa EIRELI,Outros / Serviços Industriais,Pequeno,Florianópolis,SC,Sul,2022-06-16
+5057,Materiais de Construção Pereira S/A,Construção Civil,Pequeno,Caxias do Sul,RS,Sul,2023-07-28
+5058,Papel e Celulose Moreira S/A,Papel e Celulose,Pequeno,Londrina,PR,Sul,2022-12-04
+5059,Fundição Araújo S/A,Metalurgia e Siderurgia,Pequeno,Vitória,ES,Sudeste,2024-09-29
+5060,Agroindústria Cardoso S.A.,Agronegócio,Médio,Caxias do Sul,RS,Sul,2022-03-06
+5061,Celulose Araújo S.A.,Papel e Celulose,Médio,Blumenau,SC,Sul,2021-02-07
+5062,Celulose Fernandes S/A,Papel e Celulose,Médio,Blumenau,SC,Sul,2022-06-08
+5063,Locação de Equipamentos Alves Ltda ME,Outros / Serviços Industriais,Médio,Goiânia,GO,Centro-Oeste,2022-05-26
+5064,Malharia Ribeiro Ltda,Têxtil,Pequeno,Volta Redonda,RJ,Sudeste,2024-05-10
+5065,Auto Peças Lima EIRELI,Automotivo,Pequeno,São Luís,MA,Nordeste,2023-04-20
+5066,Gás Industrial Santos EIRELI,"Petróleo, Gás e Química",Grande,São Paulo,SP,Sudeste,2020-11-28
+5067,Construtora Teixeira Ltda ME,Construção Civil,Pequeno,Uberlândia,MG,Sudeste,2024-05-04
+5068,Serviços Técnicos Marques EIRELI,Outros / Serviços Industriais,Médio,Manaus,AM,Norte,2023-05-31
+5069,Extração e Beneficiamento Correia S.A.,Mineração,Pequeno,São Luís,MA,Nordeste,2024-11-13
+5070,Pré-Moldados Costa EIRELI,Construção Civil,Grande,Florianópolis,SC,Sul,2020-11-12
+5071,Confecções Industriais Azevedo Ltda ME,Têxtil,Pequeno,Caxias do Sul,RS,Sul,2024-03-26
+5072,Componentes Veiculares Marques Ltda,Automotivo,Médio,São José dos Campos,SP,Sudeste,2022-10-26
+5073,Construtora Dias S/A,Construção Civil,Pequeno,São José dos Campos,SP,Sudeste,2024-09-13
+5074,Frigorífico Teixeira Ltda ME,Alimentício e Bebidas,Pequeno,Campinas,SP,Sudeste,2022-07-12
+5075,Confecções Industriais Moreira EIRELI,Têxtil,Médio,Contagem,MG,Sudeste,2021-10-10
+5076,Indústria Automotiva Carvalho Ltda ME,Automotivo,Pequeno,Fortaleza,CE,Nordeste,2022-04-22
+5077,Bebidas Marques Ltda ME,Alimentício e Bebidas,Médio,Feira de Santana,BA,Nordeste,2020-10-15
+5078,Metalúrgica Barros S.A.,Metalurgia e Siderurgia,Médio,Cuiabá,MT,Centro-Oeste,2023-04-09
+5079,Construtora Gomes S/A,Construção Civil,Médio,Blumenau,SC,Sul,2020-06-22
+5080,Mineradora Ferreira S.A.,Mineração,Grande,São Paulo,SP,Sudeste,2024-10-19
+5081,Mineradora Teixeira EIRELI,Mineração,Pequeno,Florianópolis,SC,Sul,2024-11-19
+5082,Celulose Azevedo S/A,Papel e Celulose,Médio,Fortaleza,CE,Nordeste,2021-11-29
+5083,Serviços Técnicos Barbosa S.A.,Outros / Serviços Industriais,Médio,Fortaleza,CE,Nordeste,2020-04-02
+5084,Pré-Moldados Nunes S/A,Construção Civil,Médio,Goiânia,GO,Centro-Oeste,2022-10-15
+5085,Manutenção Industrial Azevedo Ltda,Outros / Serviços Industriais,Médio,Florianópolis,SC,Sul,2023-07-10
+5086,Mineradora Pereira S.A.,Mineração,Médio,Fortaleza,CE,Nordeste,2024-09-20
+5087,Locação de Equipamentos Rocha S.A.,Outros / Serviços Industriais,Pequeno,Maringá,PR,Sul,2020-03-07
+5088,Auto Peças Monteiro EIRELI,Automotivo,Grande,Fortaleza,CE,Nordeste,2021-01-12
+5089,Auto Peças Carvalho S/A,Automotivo,Pequeno,Feira de Santana,BA,Nordeste,2024-09-06
+5090,Química Industrial Marques Ltda,"Petróleo, Gás e Química",Médio,Londrina,PR,Sul,2020-09-22
+5091,Componentes Veiculares Almeida Ltda,Automotivo,Grande,Recife,PE,Nordeste,2021-11-27
+5092,Siderúrgica Mendes EIRELI,Metalurgia e Siderurgia,Pequeno,Vitória,ES,Sudeste,2024-10-10
+5093,Papel e Celulose Almeida EIRELI,Papel e Celulose,Pequeno,Campo Grande,MS,Centro-Oeste,2020-10-14
+5094,Máquinas Agrícolas Teixeira EIRELI,Agronegócio,Pequeno,Brasília,DF,Centro-Oeste,2022-12-30
+5095,Pré-Moldados Souza Ltda ME,Construção Civil,Médio,Brasília,DF,Centro-Oeste,2023-04-06
+5096,Serviços Técnicos Lima Ltda ME,Outros / Serviços Industriais,Pequeno,Fortaleza,CE,Nordeste,2022-12-10
+5097,Locação de Equipamentos Barbosa Ltda ME,Outros / Serviços Industriais,Pequeno,Caxias do Sul,RS,Sul,2022-01-13
+5098,Laticínios Pereira Ltda,Alimentício e Bebidas,Pequeno,Goiânia,GO,Centro-Oeste,2023-02-24
+5099,Metalúrgica Rocha S/A,Automotivo,Pequeno,Volta Redonda,RJ,Sudeste,2021-11-04
+5100,Locação de Equipamentos Marques EIRELI,Outros / Serviços Industriais,Pequeno,Maringá,PR,Sul,2022-04-19
+5101,Máquinas Agrícolas Araújo S/A,Agronegócio,Médio,Cuiabá,MT,Centro-Oeste,2020-07-06
+5102,Fundição Correia Ltda,Metalurgia e Siderurgia,Pequeno,Feira de Santana,BA,Nordeste,2023-06-21
+5103,Engenharia Freitas Ltda,Construção Civil,Médio,Campinas,SP,Sudeste,2023-07-19
+5104,Química Industrial Martins S/A,"Petróleo, Gás e Química",Grande,Fortaleza,CE,Nordeste,2022-08-12
+5105,Confecções Industriais Dias S.A.,Têxtil,Pequeno,Joinville,SC,Sul,2021-02-06
+5106,Engenharia Correia S.A.,Construção Civil,Médio,Joinville,SC,Sul,2020-04-16
+5107,Componentes Veiculares Vieira Ltda ME,Automotivo,Pequeno,Caxias do Sul,RS,Sul,2024-06-02
+5108,Componentes Veiculares Rocha S.A.,Automotivo,Pequeno,Volta Redonda,RJ,Sudeste,2022-06-02
+5109,Pré-Moldados Carvalho Ltda ME,Construção Civil,Médio,Contagem,MG,Sudeste,2024-08-16
+5110,Mineração Gomes S.A.,Mineração,Pequeno,Vitória,ES,Sudeste,2022-11-25
+5111,Têxtil Santos Ltda,Têxtil,Médio,Rio de Janeiro,RJ,Sudeste,2022-06-16
+5112,Bebidas Machado EIRELI,Alimentício e Bebidas,Pequeno,Rio de Janeiro,RJ,Sudeste,2020-11-04
+5113,Grãos Ribeiro S/A,Agronegócio,Pequeno,Volta Redonda,RJ,Sudeste,2021-08-10
+5114,Serviços Técnicos Silva EIRELI,Outros / Serviços Industriais,Médio,Sorocaba,SP,Sudeste,2022-09-08
+5115,Metalúrgica Pereira Ltda,Automotivo,Pequeno,Belo Horizonte,MG,Sudeste,2020-06-19
+5116,Auto Peças Souza Ltda ME,Automotivo,Pequeno,Contagem,MG,Sudeste,2021-11-30
+5117,Fundição Barros EIRELI,Metalurgia e Siderurgia,Grande,Caxias do Sul,RS,Sul,2024-11-23
+5118,Materiais de Construção Marques S/A,Construção Civil,Pequeno,Florianópolis,SC,Sul,2020-10-09
+5119,Frigorífico Teixeira S/A,Alimentício e Bebidas,Pequeno,Campo Grande,MS,Centro-Oeste,2020-02-24
+5120,Mineração Machado Ltda,Mineração,Pequeno,Salvador,BA,Nordeste,2022-01-03
+5121,Extração e Beneficiamento Oliveira S/A,Mineração,Pequeno,Belo Horizonte,MG,Sudeste,2024-10-10
+5122,Pré-Moldados Nunes S/A,Construção Civil,Médio,Uberlândia,MG,Sudeste,2021-06-27
+5123,Têxtil Teixeira S.A.,Têxtil,Pequeno,Campinas,SP,Sudeste,2024-04-22
+5124,Materiais de Construção Alves Ltda,Construção Civil,Pequeno,Salvador,BA,Nordeste,2020-02-11
+5125,Serviços Técnicos Teixeira S.A.,Outros / Serviços Industriais,Grande,Volta Redonda,RJ,Sudeste,2024-04-21
+5126,Metalúrgica Moreira Ltda,Metalurgia e Siderurgia,Pequeno,Cuiabá,MT,Centro-Oeste,2023-08-06
+5127,Cooperativa Agrícola Correia S/A,Agronegócio,Pequeno,Caxias do Sul,RS,Sul,2020-11-12
+5128,Grãos Freitas S/A,Agronegócio,Médio,Caxias do Sul,RS,Sul,2023-09-10
+5129,Extração e Beneficiamento Mendes EIRELI,Mineração,Médio,Blumenau,SC,Sul,2021-05-27
+5130,Manutenção Industrial Martins S/A,Outros / Serviços Industriais,Pequeno,São Luís,MA,Nordeste,2022-06-05
+5131,Siderúrgica Gomes S/A,Metalurgia e Siderurgia,Grande,Recife,PE,Nordeste,2024-06-18
+5132,Papel e Celulose Costa S.A.,Papel e Celulose,Pequeno,Campinas,SP,Sudeste,2020-04-05
+5133,Confecções Industriais Dias S.A.,Têxtil,Médio,Vitória,ES,Sudeste,2023-11-22
+5134,Malharia Carvalho EIRELI,Têxtil,Médio,Fortaleza,CE,Nordeste,2022-05-31
+5135,Gás Industrial Cardoso EIRELI,"Petróleo, Gás e Química",Grande,Fortaleza,CE,Nordeste,2024-05-30
+5136,Química Industrial Souza Ltda,"Petróleo, Gás e Química",Médio,Brasília,DF,Centro-Oeste,2023-12-06
+5137,Locação de Equipamentos Carvalho S/A,Outros / Serviços Industriais,Grande,Sorocaba,SP,Sudeste,2021-06-07
+5138,Mineração Teixeira EIRELI,Mineração,Pequeno,Belo Horizonte,MG,Sudeste,2022-02-07
+5139,Serviços Técnicos Rocha Ltda,Outros / Serviços Industriais,Pequeno,Blumenau,SC,Sul,2023-12-19
+5140,Engenharia Costa S.A.,Construção Civil,Pequeno,Uberlândia,MG,Sudeste,2021-08-08
+5141,Agroindústria Souza EIRELI,Agronegócio,Grande,Porto Velho,RO,Norte,2021-04-08
+5142,Grãos Ferreira EIRELI,Agronegócio,Médio,Rio de Janeiro,RJ,Sudeste,2022-05-23
+5143,Auto Peças Ribeiro Ltda,Automotivo,Médio,Campinas,SP,Sudeste,2020-04-08
+5144,Construtora Nascimento Ltda,Construção Civil,Médio,Maringá,PR,Sul,2023-06-29
+5145,Manutenção Industrial Azevedo Ltda ME,Outros / Serviços Industriais,Grande,Brasília,DF,Centro-Oeste,2020-02-28
+5146,Materiais de Construção Lima S.A.,Construção Civil,Pequeno,Rio de Janeiro,RJ,Sudeste,2022-03-29
+5147,Papel e Celulose Monteiro EIRELI,Papel e Celulose,Pequeno,São Luís,MA,Nordeste,2024-02-13
+5148,Malharia Teixeira EIRELI,Têxtil,Pequeno,Campinas,SP,Sudeste,2021-05-10
+5149,Alimentos Marques Ltda,Alimentício e Bebidas,Pequeno,Contagem,MG,Sudeste,2021-03-05
+5150,Construtora Dias Ltda ME,Construção Civil,Pequeno,Cuiabá,MT,Centro-Oeste,2024-06-07
+5151,Pré-Moldados Gomes Ltda,Construção Civil,Pequeno,Fortaleza,CE,Nordeste,2022-09-27
+5152,Malharia Freitas Ltda ME,Têxtil,Médio,Salvador,BA,Nordeste,2023-04-11
+5153,Cooperativa Agrícola Costa Ltda,Agronegócio,Grande,São José dos Campos,SP,Sudeste,2020-05-13
+5154,Siderúrgica Ribeiro EIRELI,Metalurgia e Siderurgia,Médio,Feira de Santana,BA,Nordeste,2022-05-09
+5155,Engenharia Pereira Ltda,Construção Civil,Médio,Joinville,SC,Sul,2020-04-21
+5156,Engenharia Monteiro S/A,Construção Civil,Pequeno,Manaus,AM,Norte,2023-11-30
+5157,Construtora Campos Ltda,Construção Civil,Médio,São José dos Campos,SP,Sudeste,2023-05-12
+5158,Bebidas Monteiro Ltda ME,Alimentício e Bebidas,Grande,Maringá,PR,Sul,2024-01-05
+5159,Química Industrial Rocha S/A,"Petróleo, Gás e Química",Grande,São Luís,MA,Nordeste,2024-03-06
+5160,Componentes Veiculares Fernandes Ltda,Automotivo,Médio,Volta Redonda,RJ,Sudeste,2021-01-25
+5161,Gás Industrial Rodrigues S.A.,"Petróleo, Gás e Química",Pequeno,Fortaleza,CE,Nordeste,2020-06-10
+5162,Indústria Automotiva Azevedo S.A.,Automotivo,Pequeno,Londrina,PR,Sul,2023-07-23
+5163,Engenharia Costa Ltda ME,Construção Civil,Pequeno,Londrina,PR,Sul,2021-11-08
+5164,Mineração Nunes Ltda ME,Mineração,Médio,Campo Grande,MS,Centro-Oeste,2022-09-07
+5165,Bebidas Vieira EIRELI,Alimentício e Bebidas,Pequeno,Porto Alegre,RS,Sul,2023-04-05
+5166,Malharia Silva S/A,Têxtil,Grande,Maringá,PR,Sul,2022-09-28
+5167,Serviços Técnicos Monteiro Ltda ME,Outros / Serviços Industriais,Pequeno,Feira de Santana,BA,Nordeste,2021-09-20
+5168,Extração e Beneficiamento Nunes S.A.,Mineração,Médio,Campo Grande,MS,Centro-Oeste,2022-12-19
+5169,Fundição Dias S.A.,Metalurgia e Siderurgia,Médio,Fortaleza,CE,Nordeste,2022-11-20
+5170,Laticínios Martins S.A.,Alimentício e Bebidas,Pequeno,Belo Horizonte,MG,Sudeste,2024-04-23
+5171,Celulose Correia S.A.,Papel e Celulose,Pequeno,Caxias do Sul,RS,Sul,2024-10-28
+5172,Gás Industrial Barros Ltda ME,"Petróleo, Gás e Química",Médio,Campinas,SP,Sudeste,2023-09-22
+5173,Grãos Pereira S.A.,Agronegócio,Médio,Contagem,MG,Sudeste,2023-07-19
+5174,Grãos Monteiro EIRELI,Agronegócio,Grande,Campo Grande,MS,Centro-Oeste,2021-07-09
+5175,Cooperativa Agrícola Moreira Ltda,Agronegócio,Grande,Curitiba,PR,Sul,2023-05-14
+5176,Celulose Santos EIRELI,Papel e Celulose,Grande,Rio de Janeiro,RJ,Sudeste,2022-12-24
+5177,Alimentos Campos S/A,Alimentício e Bebidas,Pequeno,Joinville,SC,Sul,2020-10-12
+5178,Laticínios Moreira S/A,Alimentício e Bebidas,Pequeno,Curitiba,PR,Sul,2023-04-20
+5179,Manutenção Industrial Barros S/A,Outros / Serviços Industriais,Médio,Brasília,DF,Centro-Oeste,2020-03-06
+5180,Petroquímica Ribeiro Ltda ME,"Petróleo, Gás e Química",Pequeno,Feira de Santana,BA,Nordeste,2022-09-16
+5181,Cooperativa Agrícola Nascimento EIRELI,Agronegócio,Pequeno,Curitiba,PR,Sul,2022-01-29
+5182,Têxtil Barros EIRELI,Têxtil,Pequeno,Belo Horizonte,MG,Sudeste,2024-02-09
+5183,Petroquímica Barros S.A.,"Petróleo, Gás e Química",Médio,Rio de Janeiro,RJ,Sudeste,2024-04-01
+5184,Mineração Azevedo S.A.,Mineração,Pequeno,Campinas,SP,Sudeste,2023-12-27
+5185,Celulose Campos S.A.,Papel e Celulose,Pequeno,Florianópolis,SC,Sul,2020-03-01
+5186,Petroquímica Nascimento EIRELI,"Petróleo, Gás e Química",Médio,Volta Redonda,RJ,Sudeste,2020-08-18
+5187,Malharia Ferreira Ltda,Têxtil,Médio,Uberlândia,MG,Sudeste,2022-11-13
+5188,Celulose Correia Ltda,Papel e Celulose,Grande,Joinville,SC,Sul,2020-02-11
+5189,Indústria Automotiva Nunes Ltda,Automotivo,Pequeno,Porto Alegre,RS,Sul,2020-03-09
+5190,Alimentos Silva S.A.,Alimentício e Bebidas,Pequeno,Caxias do Sul,RS,Sul,2021-08-30
+5191,Confecções Industriais Pinto S/A,Têxtil,Pequeno,São Luís,MA,Nordeste,2022-11-25
+5192,Têxtil Ribeiro S.A.,Têxtil,Pequeno,São Luís,MA,Nordeste,2020-08-04
+5193,Metalúrgica Costa S.A.,Automotivo,Pequeno,Brasília,DF,Centro-Oeste,2022-05-02
+5194,Auto Peças Martins S/A,Automotivo,Pequeno,Sorocaba,SP,Sudeste,2021-03-01
+5195,Malharia Ferreira Ltda,Têxtil,Grande,Curitiba,PR,Sul,2024-03-17
+5196,Siderúrgica Pinto Ltda,Metalurgia e Siderurgia,Pequeno,Fortaleza,CE,Nordeste,2024-06-20
+5197,Cooperativa Agrícola Marques S.A.,Agronegócio,Médio,Fortaleza,CE,Nordeste,2022-06-23
+5198,Mineração Rodrigues Ltda ME,Mineração,Médio,Joinville,SC,Sul,2023-11-29
+5199,Metalúrgica Ferreira Ltda,Automotivo,Médio,Uberlândia,MG,Sudeste,2024-01-26
+5200,Locação de Equipamentos Pereira S/A,Outros / Serviços Industriais,Pequeno,Belo Horizonte,MG,Sudeste,2021-10-02
+5201,Confecções Industriais Azevedo S/A,Têxtil,Pequeno,Campinas,SP,Sudeste,2020-09-09
+5202,Celulose Lima S.A.,Papel e Celulose,Médio,Rio de Janeiro,RJ,Sudeste,2021-05-11
+5203,Malharia Barbosa EIRELI,Têxtil,Pequeno,Florianópolis,SC,Sul,2024-10-15
+5204,Bebidas Nascimento S.A.,Alimentício e Bebidas,Médio,Joinville,SC,Sul,2022-11-21
+5205,Metalúrgica Carvalho Ltda ME,Metalurgia e Siderurgia,Médio,Recife,PE,Nordeste,2023-08-10
+5206,Fundição Mendes S/A,Metalurgia e Siderurgia,Pequeno,Rio de Janeiro,RJ,Sudeste,2024-08-07
+5207,Confecções Industriais Correia Ltda ME,Têxtil,Grande,Volta Redonda,RJ,Sudeste,2024-02-01
+5208,Frigorífico Campos EIRELI,Alimentício e Bebidas,Pequeno,Londrina,PR,Sul,2024-08-18
+5209,Engenharia Mendes Ltda,Construção Civil,Pequeno,Florianópolis,SC,Sul,2023-11-19
+5210,Bebidas Ferreira Ltda,Alimentício e Bebidas,Grande,Campinas,SP,Sudeste,2024-04-07
+5211,Mineradora Silva EIRELI,Mineração,Pequeno,São José dos Campos,SP,Sudeste,2023-03-10
+5212,Grãos Freitas Ltda,Agronegócio,Pequeno,Florianópolis,SC,Sul,2020-05-31
+5213,Engenharia Moreira EIRELI,Construção Civil,Grande,São Paulo,SP,Sudeste,2024-04-30
+5214,Confecções Industriais Alves Ltda,Têxtil,Pequeno,Salvador,BA,Nordeste,2020-02-02
+5215,Mineração Vieira Ltda,Mineração,Médio,São Paulo,SP,Sudeste,2022-02-14
+5216,Manutenção Industrial Ribeiro EIRELI,Outros / Serviços Industriais,Grande,Contagem,MG,Sudeste,2022-07-12
+5217,Extração e Beneficiamento Teixeira EIRELI,Mineração,Pequeno,Contagem,MG,Sudeste,2024-04-19
+5218,Materiais de Construção Freitas Ltda,Construção Civil,Pequeno,Vitória,ES,Sudeste,2022-01-23
+5219,Frigorífico Moreira S.A.,Alimentício e Bebidas,Grande,Rio de Janeiro,RJ,Sudeste,2020-06-05

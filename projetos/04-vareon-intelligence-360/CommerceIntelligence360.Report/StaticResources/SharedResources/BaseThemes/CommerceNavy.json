@@ -1,0 +1,13 @@
+{
+  "name": "CommerceNavy",
+  "dataColors": [
+    "#25DACD",
+    "#58A6FF",
+    "#EAB86A",
+    "#9B89F8",
+    "#EF8796"
+  ],
+  "background": "#0C1729",
+  "foreground": "#EDF4FF",
+  "tableAccent": "#25DACD"
+}

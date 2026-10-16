@@ -1,0 +1,68 @@
+table DimCalendario
+	lineageTag: b4623901-8df5-47be-b682-430f68f43c5f
+
+	column Data
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 84dc87b5-18a5-44b6-a91b-8f209a50fb09
+		summarizeBy: none
+		sourceColumn: Data
+
+		variation Variation
+			isDefault
+			relationship: a6e66f21-135e-4b89-a473-a5654dc3420e
+			defaultHierarchy: LocalDateTable_c979e3c3-9b87-41fc-8cf1-6939519cf259.'Hierarquia de datas'
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column Ano
+		dataType: int64
+		lineageTag: f83464fa-c46f-4740-a6a4-89c94b758b1a
+		summarizeBy: sum
+		sourceColumn: Ano
+
+		annotation SummarizationSetBy = Automatic
+
+	column MesNumero
+		dataType: int64
+		lineageTag: f4001ca2-00bb-463e-86e5-6a8e8a07bb05
+		summarizeBy: sum
+		sourceColumn: MesNumero
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mes
+		dataType: string
+		lineageTag: 1e96bf1d-a7df-4760-9f60-fadef8afbbfa
+		summarizeBy: none
+		sourceColumn: Mes
+
+	column AnoMes
+		dataType: string
+		lineageTag: ea2270d7-8195-41a7-ad63-7bbfe84a2ff3
+		summarizeBy: none
+		sourceColumn: AnoMes
+
+	column Trimestre
+		dataType: string
+		lineageTag: e6ea6dfa-0ec1-4161-a1fb-5c3cff7a3459
+		summarizeBy: none
+		sourceColumn: Trimestre
+
+	partition DimCalendario = m
+		mode: import
+		source =
+				let
+				    FirstDate = #date(2024, 1, 1),
+				    LastDate = #date(2025, 12, 31),
+				    Dates = List.Dates(FirstDate, Duration.Days(LastDate - FirstDate) + 1, #duration(1, 0, 0, 0)),
+				    StartTable = Table.FromList(Dates, Splitter.SplitByNothing(), {"Data"}),
+				    DateTyped = Table.TransformColumnTypes(StartTable, {{"Data", type date}}),
+				    Year = Table.AddColumn(DateTyped, "Ano", each Date.Year([Data]), Int64.Type),
+				    MonthNumber = Table.AddColumn(Year, "MesNumero", each Date.Month([Data]), Int64.Type),
+				    Month = Table.AddColumn(MonthNumber, "Mes", each Date.ToText([Data], "MMMM", "pt-BR"), type text),
+				    YearMonth = Table.AddColumn(Month, "AnoMes", each Date.ToText([Data], "yyyy-MM"), type text),
+				    Quarter = Table.AddColumn(YearMonth, "Trimestre", each "T" & Number.ToText(Date.QuarterOfYear([Data])), type text)
+				in
+				    Quarter
+

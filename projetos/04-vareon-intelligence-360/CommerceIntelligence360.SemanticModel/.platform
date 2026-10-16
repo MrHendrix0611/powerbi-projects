@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Commerce Intelligence 360"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c0786c63-9ae7-52c6-9501-d74757a92761"
+  }
+}

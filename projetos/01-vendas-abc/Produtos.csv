@@ -1,0 +1,94 @@
+ProdutoID,NomeProduto,Categoria,PrecoUnitario,CustoUnitario,UnidadeMedida
+1001,Motor Elétrico Trifásico 1CV,Motores Elétricos,942.48,580.77,UN
+1002,Motor Elétrico Trifásico 2CV,Motores Elétricos,992.2,627.31,UN
+1003,Motor Elétrico Trifásico 3CV,Motores Elétricos,867.13,563.19,UN
+1004,Motor Elétrico Trifásico 5CV,Motores Elétricos,1070.65,682.79,UN
+1005,Motor Elétrico Trifásico 7.5CV,Motores Elétricos,1001.98,618.15,UN
+1006,Motor Elétrico Trifásico 10CV,Motores Elétricos,1134.7,733.54,UN
+1007,Motor Elétrico Trifásico 15CV,Motores Elétricos,1363.52,872.67,UN
+1008,Motor Elétrico Trifásico 20CV,Motores Elétricos,1458.42,879.56,UN
+1009,Motor Elétrico Trifásico 25CV,Motores Elétricos,1650.54,978.7,UN
+1010,Motor Elétrico Trifásico 30CV,Motores Elétricos,1913.12,1201.75,UN
+1011,Motor Elétrico Trifásico 40CV,Motores Elétricos,2212.5,1351.79,UN
+1012,Motor Elétrico Trifásico 50CV,Motores Elétricos,2650.26,1707.76,UN
+1013,Bomba Centrífuga 0.5HP,Bombas Industriais,1567.23,911.62,UN
+1014,Bomba Centrífuga 1HP,Bombas Industriais,1530.09,876.17,UN
+1015,Bomba Centrífuga 2HP,Bombas Industriais,1542.87,942.67,UN
+1016,Bomba Centrífuga 3HP,Bombas Industriais,1891.52,1187.97,UN
+1017,Bomba Centrífuga 5HP,Bombas Industriais,1972.51,1168.17,UN
+1018,Bomba Centrífuga 7.5HP,Bombas Industriais,2352.74,1367.81,UN
+1019,Bomba Centrífuga 10HP,Bombas Industriais,2470.03,1478.42,UN
+1020,Bomba Centrífuga 15HP,Bombas Industriais,3125.24,1906.99,UN
+1021,Bomba Centrífuga 20HP,Bombas Industriais,3905.0,2420.95,UN
+1022,Compressor de Ar de Pistão 10PCM,Compressores de Ar,3980.12,2265.16,UN
+1023,Compressor de Ar de Pistão 15PCM,Compressores de Ar,4401.71,2630.8,UN
+1024,Compressor de Ar de Pistão 20PCM,Compressores de Ar,4287.79,2434.28,UN
+1025,Compressor de Ar de Pistão 25PCM,Compressores de Ar,4872.69,2724.35,UN
+1026,Compressor de Ar de Pistão 40PCM,Compressores de Ar,5195.66,2865.03,UN
+1027,Compressor de Ar de Pistão 60PCM,Compressores de Ar,7142.71,4211.07,UN
+1028,Compressor de Ar de Pistão 80PCM,Compressores de Ar,8238.5,4912.47,UN
+1029,Compressor de Ar de Pistão 100PCM,Compressores de Ar,8968.61,5237.55,UN
+1030,Válvula Industrial Esfera 0.5pol,Válvulas Industriais,331.35,175.22,UN
+1031,Válvula Industrial Esfera 1pol,Válvulas Industriais,410.44,225.09,UN
+1032,Válvula Industrial Esfera 1.5pol,Válvulas Industriais,438.42,247.52,UN
+1033,Válvula Industrial Esfera 2pol,Válvulas Industriais,482.39,266.74,UN
+1034,Válvula Industrial Esfera 3pol,Válvulas Industriais,548.34,295.67,UN
+1035,Válvula Industrial Esfera 4pol,Válvulas Industriais,551.32,301.31,UN
+1036,Válvula Industrial Esfera 6pol,Válvulas Industriais,712.3,388.18,UN
+1037,Válvula Industrial Esfera 8pol,Válvulas Industriais,974.62,521.78,UN
+1038,Válvula Industrial Gaveta 1pol,Válvulas Industriais,379.74,204.29,UN
+1039,Válvula Industrial Gaveta 2pol,Válvulas Industriais,493.87,276.03,UN
+1040,Válvula Industrial Gaveta 3pol,Válvulas Industriais,621.71,351.65,UN
+1041,Válvula Industrial Gaveta 4pol,Válvulas Industriais,736.49,401.28,UN
+1042,Válvula Industrial Gaveta 6pol,Válvulas Industriais,966.86,514.06,UN
+1043,Rolamento Rígido de Esferas 20mm,Rolamentos,116.93,56.07,UN
+1044,Rolamento Rígido de Esferas 25mm,Rolamentos,145.87,72.66,UN
+1045,Rolamento Rígido de Esferas 30mm,Rolamentos,136.86,68.44,UN
+1046,Rolamento Rígido de Esferas 35mm,Rolamentos,144.55,73.69,UN
+1047,Rolamento Rígido de Esferas 40mm,Rolamentos,163.1,80.58,UN
+1048,Rolamento Rígido de Esferas 50mm,Rolamentos,174.42,88.35,UN
+1049,Rolamento Rígido de Esferas 60mm,Rolamentos,193.57,92.79,UN
+1050,Rolamento Rígido de Esferas 75mm,Rolamentos,206.72,108.13,UN
+1051,Rolamento Rígido de Esferas 90mm,Rolamentos,273.76,139.61,UN
+1052,Rolamento Rígido de Esferas 100mm,Rolamentos,254.96,133.46,UN
+1053,Redutor de Velocidade 5:1,Redutores e Engrenagens,2587.25,1665.32,UN
+1054,Redutor de Velocidade 10:1,Redutores e Engrenagens,2726.89,1678.81,UN
+1055,Redutor de Velocidade 15:1,Redutores e Engrenagens,2805.07,1838.34,UN
+1056,Redutor de Velocidade 20:1,Redutores e Engrenagens,3360.91,2054.35,UN
+1057,Redutor de Velocidade 30:1,Redutores e Engrenagens,3859.57,2450.79,UN
+1058,Redutor de Velocidade 40:1,Redutores e Engrenagens,4337.67,2830.19,UN
+1059,Redutor de Velocidade 60:1,Redutores e Engrenagens,6273.22,4038.86,UN
+1060,Parafusadeira Pneumática 20Nm,Ferramentas Pneumáticas,620.92,358.43,UN
+1061,Parafusadeira Pneumática 40Nm,Ferramentas Pneumáticas,789.89,456.98,UN
+1062,Parafusadeira Pneumática 60Nm,Ferramentas Pneumáticas,837.74,473.49,UN
+1063,Parafusadeira Pneumática 80Nm,Ferramentas Pneumáticas,960.07,546.91,UN
+1064,Parafusadeira Pneumática 120Nm,Ferramentas Pneumáticas,1307.13,718.58,UN
+1065,Lixadeira Pneumática 5pol,Ferramentas Pneumáticas,1012.39,582.12,UN
+1066,Lixadeira Pneumática 6pol,Ferramentas Pneumáticas,1144.32,679.99,UN
+1067,Lixadeira Pneumática 7pol,Ferramentas Pneumáticas,1381.41,775.35,UN
+1068,Sensor de Proximidade Indutivo 4mm,Sensores e Automação,268.21,122.6,UN
+1069,Sensor de Proximidade Indutivo 8mm,Sensores e Automação,345.26,165.43,UN
+1070,Sensor de Proximidade Indutivo 12mm,Sensores e Automação,387.28,178.14,UN
+1071,Sensor de Proximidade Indutivo 18mm,Sensores e Automação,439.89,210.95,UN
+1072,Sensor de Proximidade Indutivo 30mm,Sensores e Automação,650.52,314.49,UN
+1073,Sensor Fotoelétrico 1m,Sensores e Automação,248.83,116.66,UN
+1074,Sensor Fotoelétrico 2m,Sensores e Automação,277.87,133.65,UN
+1075,Sensor Fotoelétrico 5m,Sensores e Automação,397.63,181.73,UN
+1076,Sensor Fotoelétrico 10m,Sensores e Automação,636.09,317.42,UN
+1077,Painel Elétrico de Comando 16A,Painéis Elétricos,1920.47,1177.82,UN
+1078,Painel Elétrico de Comando 32A,Painéis Elétricos,2102.99,1304.92,UN
+1079,Painel Elétrico de Comando 63A,Painéis Elétricos,2586.63,1603.0,UN
+1080,Painel Elétrico de Comando 100A,Painéis Elétricos,3372.73,2112.64,UN
+1081,Painel Elétrico de Comando 160A,Painéis Elétricos,3677.45,2336.57,UN
+1082,Painel Elétrico de Comando 250A,Painéis Elétricos,4924.35,2864.9,UN
+1083,Kit de Vedação Industrial 25mm,Peças de Reposição,207.48,92.16,UN
+1084,Kit de Vedação Industrial 40mm,Peças de Reposição,260.68,120.92,UN
+1085,Kit de Vedação Industrial 50mm,Peças de Reposição,257.96,121.34,UN
+1086,Kit de Vedação Industrial 63mm,Peças de Reposição,288.01,129.8,UN
+1087,Kit de Vedação Industrial 80mm,Peças de Reposição,326.68,153.42,UN
+1088,Kit de Vedação Industrial 100mm,Peças de Reposição,367.0,157.63,UN
+1089,Correia Industrial 10mm,Peças de Reposição,239.77,113.21,UN
+1090,Correia Industrial 13mm,Peças de Reposição,297.11,137.02,UN
+1091,Correia Industrial 17mm,Peças de Reposição,341.24,159.6,UN
+1092,Correia Industrial 20mm,Peças de Reposição,346.43,153.02,UN
+1093,Correia Industrial 25mm,Peças de Reposição,419.38,191.77,UN

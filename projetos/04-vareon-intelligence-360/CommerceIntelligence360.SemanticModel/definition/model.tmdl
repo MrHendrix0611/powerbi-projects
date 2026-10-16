@@ -1,0 +1,23 @@
+model Model
+	culture: pt-BR
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: pt-BR
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["DimCalendario","DimClientes","DimProdutos","FatoPedidos"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table DimCalendario
+ref table DimClientes
+ref table DimProdutos
+ref table FatoPedidos
+ref table DateTableTemplate_92dc752e-811e-4e9c-8ee3-10011d4576ed
+ref table LocalDateTable_c979e3c3-9b87-41fc-8cf1-6939519cf259
+ref table LocalDateTable_6c9cec80-a149-465b-9d94-93f917c76845
+ref table LocalDateTable_a8d09bc3-113c-4c48-a2fb-88e4d8f96c1f
+

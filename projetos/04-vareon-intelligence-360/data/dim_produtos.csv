@@ -1,0 +1,23 @@
+﻿ProdutoID,Categoria,Produto,PrecoReferencia,CustoReferencia
+PRD001,Eletrônicos,Fone Bluetooth,136.37,71.6
+PRD002,Eletrônicos,Teclado Mecânico,319.51,228.72
+PRD003,Eletrônicos,Carregador USB,500.91,376.68
+PRD004,Eletrônicos,Smartwatch,588.08,326.75
+PRD005,Casa e Decoração,Luminária LED,203.23,103.48
+PRD006,Casa e Decoração,Jogo de Cama,231.7,137.09
+PRD007,Casa e Decoração,Organizador,62.1,37.51
+PRD008,Casa e Decoração,Cafeteira,191.07,93.95
+PRD009,Beleza,Kit Skincare,206.68,118.22
+PRD010,Beleza,Secador,79.13,54.64
+PRD011,Beleza,Perfume,237.49,147.58
+PRD012,Esportes,Garrafa Térmica,238.28,141.17
+PRD013,Esportes,Corda de Pular,250.57,143.39
+PRD014,Esportes,Tapete Yoga,136.63,72.98
+PRD015,Livros,Livro Tecnologia,109.21,66.22
+PRD016,Livros,Livro Negócios,196.82,140.33
+PRD017,Moda,Mochila Casual,87.36,55.6
+PRD018,Moda,Camiseta Básica,238.2,129.65
+PRD019,Moda,Tênis Casual,282.24,211.52
+PRD020,Moda,Jaqueta,276.78,154.57
+PRD021,Papelaria,Agenda 2025,238.54,157.54
+PRD022,Papelaria,Kit Canetas,57.72,37.55

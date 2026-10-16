@@ -1,0 +1,46 @@
+table DimProdutos
+	lineageTag: 7e7142f0-ed75-41a4-80f9-d7e6a8352387
+
+	column ProdutoID
+		dataType: string
+		lineageTag: 9f3121ff-40c9-4430-aa29-79d0ddb8dc66
+		summarizeBy: none
+		sourceColumn: ProdutoID
+
+	column Categoria
+		dataType: string
+		lineageTag: f10781e4-d9a0-4567-83c1-6b27a09c75c1
+		summarizeBy: none
+		sourceColumn: Categoria
+
+	column Produto
+		dataType: string
+		lineageTag: 41294184-20cc-4bbd-aed5-42327b542941
+		summarizeBy: none
+		sourceColumn: Produto
+
+	column PrecoReferencia
+		dataType: double
+		lineageTag: f6dec673-0ab7-4b67-883e-b0809df36a8b
+		summarizeBy: none
+		sourceColumn: PrecoReferencia
+
+	column CustoReferencia
+		dataType: double
+		lineageTag: 17d2801b-f786-452c-a63a-074844417a94
+		summarizeBy: none
+		sourceColumn: CustoReferencia
+
+	partition DimProdutos = m
+		mode: import
+		source =
+				let
+				    Payload = Binary.Decompress(Binary.FromText(
+								"dZTBbtswDIZfxci5ICzJkuzjknYDunYLluwwFD0IjuIKc6xOdjagb9PtMGzX7Q38YiPVoHIX5BSZ0Ef+/Enl5ma2/HCe52x2Nrto7RDGv52rfY+fr31ns3m7t4P3wx0GmFAgNB40AzW7PTug/Bhd27o1G59d23r8TkGMCVaBpDKcl6B54sUxvzAh2AYzhOzjao4BmedQESy0AlUmuDiGVzsThm9mqEmzLEvISwK5Ai0TKGOZ3mQ2O7e1D2b8Of4gnVf7nevGx+BMdnVxTnpzAZxEMjwUk9rqVIpL3/hsY7OF2RlKIBjo6J+GvEq8PsW/D43p3AP1j1+Kw1PnZN8zXJ6CF2ZrB+sCVWYVg1imElBNmq8wNLetfaBLb92QrT67rjbBxnajwwizEniaE8un0MrWB3m6AkbuyAJUkW6z6e2lDdv9LmbHNgoqzwrsJ5nJ4hb19z4Mlob4BjfAbE22Hn+FnaufbEQ9UVjBgOmEipfowoeNIfuX+9aQQi5zkHEAhQCRBsCKl+Da3KNz2SffmMO2K0qtOVQTobQ4V+5riLsWDxmue+db37jI5RVw6l6pF/apY+6dbcY/tYsRVikoeRSZgxCJI+HXfmPiT33nWoN71e9Ni4FSg6C8Uk4eJCsTgRvoejuYbD4+9hMbqQ6vQKWdYFWi1uPvzvWpDC85cDKLMwYy9cTzxFyaL/hPEQvgE9VxTrgSMs0pmrJEj3Eq0alXje1wUjzn8qBLFhHTdHjG+H8Y7evCdFiMfMPLmh+eB3Zz+w8="
+				    , BinaryEncoding.Base64), Compression.Deflate),
+				    Rows = Json.Document(Payload),
+				    Source = Table.FromRows(Rows, {"ProdutoID", "Categoria", "Produto", "PrecoReferencia", "CustoReferencia"}),
+				    Typed = Table.TransformColumnTypes(Source, {{"ProdutoID", type text}, {"Categoria", type text}, {"Produto", type text}, {"PrecoReferencia", type number}, {"CustoReferencia", type number}}, "en-US")
+				in
+				    Typed
+

@@ -1,0 +1,41 @@
+table DimClientes
+	lineageTag: 37815c62-1fc5-4037-bbe2-8bf6e676d6dd
+
+	column ClienteID
+		dataType: string
+		lineageTag: cbae8b77-acac-4112-8b95-f8586e2ba6ae
+		summarizeBy: none
+		sourceColumn: ClienteID
+
+	column Estado
+		dataType: string
+		lineageTag: 28e3d22f-20bc-4a55-bb9e-cb151e63e3ba
+		summarizeBy: none
+		sourceColumn: Estado
+
+	column Cidade
+		dataType: string
+		lineageTag: 2e58da44-086f-4c9d-877d-8f026c7b5d31
+		summarizeBy: none
+		sourceColumn: Cidade
+
+	column Segmento
+		dataType: string
+		lineageTag: 2bdeac35-0b43-44bd-849e-059ed81bd42c
+		summarizeBy: none
+		sourceColumn: Segmento
+
+	partition DimClientes = m
+		mode: import
+		source =
+				let
+				    Payload = Binary.Decompress(Binary.FromText(
+								"lZzLjly3EYZfRdDaC9aNl6WtRE6MXAb20vBiEneCBsbqoC154cdJ1lnlEfRimaYQxJ5z+vCrTQOSSiSLdf+reL799vWbP/y+lCKvP3v9xy+ff744PV1e/e5yPf98eff+9PwXf7r8dHn93Wf/I9Tnv/rm4fbz8V+XVw+PH54uz3/4+vTXy/V6uv2P/5MaJ/Ub1Zvnn7dPz1s/vvv4n39cns4/breP3TVfENXbNl/dfs6XV9+fXn31+O50vu4QNn7CzknH8z88/PbTv57/drpDJgVeuchmvRcEuiF4uJ5+OH/44Rc0dvdOdg93E8iXf779XM4f//nu/Li76E0aD18//7z5cD2/P/9ln6reZXRL2+il9Lsas8vPAHqjN4n85u1t8+vjjx///TS53ltOqbmoQlXUKZ9vbndyub6/vPr86fT36856N7l88fmNj8ennx6/v1zvnTDoCStdsaU0SDs0aR3wAFaADE12iTaKZnr3eFvanO2YY1dhwUkTVmTUiowKycaOP9g7phfMkQvc3BUI3i3lENyprTsJOV4JUYOa7p0rp1PziZLS4pAcue7d56/5D+MqHL4TWl4sF8hlRs0xwnOC6OwA4+4BNmzXm5De3EL52+clH59OP2/5rrIj8Rckeudke2xU27nqXUJfy7gGl3Gt0AHUlrjBvlScyhK0VuDxmsAg34gja8ZO53TTgOJtdZFntlwG0PpOzHix4liqci+Qzy57prN3sK4pPjqvY7oDAffAB613zHij9b0lDL73HP809o9CCXOxZRCzGbZ2TsMTtzSo3YyKDHY0qMhj7cEGDPpSCudYiqzvWTgAIAUGFime0QcpsQySQjEAKTBXljsIwEtTlFn+0yuXjHwExhkRYDAiqYRZdhGBXcIgm8PQLxMQOAwiMqGApf2JZOSi6zxMJghASgiZKAAxBEWxXyYKcBCpZVb/LGESrdigJwSw4Xi7YofeSUfK7g3XljJhABI55QAI+PWdGkJoZFb/+/5k96CRI6/sEC1l29ahftrAEphAwGEUE6f+zNfFpcz6n/gnd7orL2XEqT/zxm+wA3RVZv3PFSgAiCaz9j92usHTgKCSCSdni4Qbj0pWbCywz3I/cdMAcpZaUmtWwbde100BqQa1tjqKSzWgaVUil8pNpXaYxNWctbSC3G0TGPAmAHBY70qjMmm+XgvDy9JSKJk0mjU3GlomFED47oUSUkBAJiCwyPa68ZSqM3PpGVfWeZqWAQOkd2CKPWc2A2I2MgQD3XIHBdjSGWBokFAzImUTg+Vmg5rOWOJnMhI1jRZoOFqgO9Oyzst0ggDHtqXFM2zAIKOlZpJgnUDAYcKqJZUBaBkrAaoU0GdXYU1NlQTsr8K7MSrOdFY/TQQcZh1Ka3+dtT9x4DohgIWSScqHqRbs73UiASDIKQUCVDHmrHQkQDWYFimEzlShJ1MKCKgO4kLVSsqyDeCaagrPaAm7MSobo06NAQBqu6azPR8VjIFiRj0nFidicT2GutQt4fM8BTQraf2r11Uert5yF0Ol4pnwHxg904DAjHIUQMMAmqHhfEEQakj9r9FwEqoBC02NkRJ5RYWmViqYqrntkXAqF06lPU6tlS/aKPdUSnXAFdsSzdSWampqU9g90GYkR2xcOJ9gAawcbe3gJhywsMUGcrTGR2V04gDES3ZZym4CADw37LYISt1z65E4MwGABRsJT9b7Uqodo/06eHAZglzdyNQyg6fLmRkAHZEh5p5sNAIQ6YDgmQ7ox6wUVAMYfQ9gJWU5VmxVElsGDLCCEU4rS/uxkhpwstJJkm1lYKs0gRiNCUieTfZqmu2eRpbC4cWE1ZkmKXzGpBG/YdIJNwPXcKaFGaHpsmtmmpo8M03UNqZOzxlQx7Rmts/ZjvbjEGq52QCz" &
+								"kiOXlNsyXOeYwW6n5QYFzGLpvg6eCOyu2JYJmVnqmY0ZbOKYgza0uST0zxW5hwkXHKY95k6ZCJaBmucE4w2qUOKdgDlO5mwiBUe2mXsbYBwlsCCxiMwJ2IQHjnsTFjm5BKw/LdiooE2QYGGBdVl5Ws05s6pkissqmkWzSq2lBmB2naPV5UCgVZg2Wx0QpbAGR5ut4QkNa7lkoK1T54b6ztaAJFqFBUCjzmr3OcAuIQ0idBLA9icBNhrfWQjpmaxsIgFIxTovZXplB230fnqGIx5IRuHxaeSc2KDwmY2MuIaTiok+DbCRmqqxg9GA7Rl6bunlSxsv8EG6F+zj/AAeeMmR0+cCXpZvA518J8ALfPrspcFpYi/LmQ0vqcLGpRCf7kKHnVw0tz9Bn53DAy6w1ekTH1jmKS5sfNMJMODkOwGuGOx0hW+cXZVsbITIl1i8w1EAV/7o3LUtPYx2DO+74jDjVpY7G5XDrPRBluJm/HzObttgPemGXpy5wXrFbQHGOK3r3SFY5qT5766gLelukE13rs2k9e9e6c4pcMwdf2zGZ1lPLpwM/ntA2N8DvprxMBqXwikngbQ/aHSPRnnp9Ha477rb+N9oZKWyqbrMQSqWCi3vvVLnVVOwv9cG1YJW/T6rflI6+Lrr701S3JAvAHhbYpTenHjGFuuFEhG+wUxrVvrH0Ju31DSmd+K91o1+ZyW+9/XQsrMhf++Ba2Bndb13OHfpnceRnppX8lGI/g02t+zkgb/f6fFvF4PZ1gjqBmYVj7zlaIQRjtr73QH/l5RBq/coKaAlCrKY4B/7i+KcFGRhUSpfry09U8B3/lHgNxhCUq3JEBjnQ1KjFyFcQgJTsZAAcFkcNPq3tMtXGCHwo2Uhy/cXofdaXd/9Fw=="
+				    , BinaryEncoding.Base64), Compression.Deflate),
+				    Rows = Json.Document(Payload),
+				    Source = Table.FromRows(Rows, {"ClienteID", "Estado", "Cidade", "Segmento"}),
+				    Typed = Table.TransformColumnTypes(Source, {{"ClienteID", type text}, {"Estado", type text}, {"Cidade", type text}, {"Segmento", type text}}, "en-US")
+				in
+				    Typed
+

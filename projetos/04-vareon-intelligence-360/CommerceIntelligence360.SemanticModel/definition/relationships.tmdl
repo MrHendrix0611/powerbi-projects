@@ -1,0 +1,27 @@
+relationship 1f1b2ab5-5b11-4bda-9a80-84995d550101
+	fromColumn: FatoPedidos.DataPedido
+	toColumn: DimCalendario.Data
+
+relationship 1f1b2ab5-5b11-4bda-9a80-84995d550102
+	fromColumn: FatoPedidos.ClienteID
+	toColumn: DimClientes.ClienteID
+
+relationship 1f1b2ab5-5b11-4bda-9a80-84995d550103
+	fromColumn: FatoPedidos.ProdutoID
+	toColumn: DimProdutos.ProdutoID
+
+relationship a6e66f21-135e-4b89-a473-a5654dc3420e
+	joinOnDateBehavior: datePartOnly
+	fromColumn: DimCalendario.Data
+	toColumn: LocalDateTable_c979e3c3-9b87-41fc-8cf1-6939519cf259.Date
+
+relationship b67c873c-702e-4eb7-8c09-e9f084269e6c
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FatoPedidos.DataEntrega
+	toColumn: LocalDateTable_6c9cec80-a149-465b-9d94-93f917c76845.Date
+
+relationship db689f70-bd42-4bc2-8aea-9172e0288a90
+	joinOnDateBehavior: datePartOnly
+	fromColumn: FatoPedidos.DataPrevista
+	toColumn: LocalDateTable_a8d09bc3-113c-4c48-a2fb-88e4d8f96c1f.Date
+
