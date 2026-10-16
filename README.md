@@ -50,8 +50,6 @@ Projeto de varejo digital com visão executiva, desempenho comercial, logística
 
 **[Explorar projeto VAREON →](projetos/04-vareon-intelligence-360/README.md)**
 
-> As imagens do VAREON são prévias de composição visual; a renderização final deve ser conferida no Power BI Desktop. A empresa e os dados do estudo VAREON são demonstrativos.
-
 ## Tecnologias
 
 | Recurso | Aplicação |
