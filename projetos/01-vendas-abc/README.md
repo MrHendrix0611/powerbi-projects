@@ -23,4 +23,3 @@ Explorar o desempenho comercial de uma empresa de equipamentos por meio de indic
 
 Abra `Vendas.pbix` no Power BI Desktop. Caso a atualização solicite uma origem de dados, ajuste os caminhos dos CSVs para a pasta deste projeto e execute **Atualizar**.
 
-![Dashboard comercial](ABC%20Equipamentos%20Dashboard.png)
